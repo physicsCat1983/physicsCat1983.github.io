@@ -250,6 +250,34 @@ a:hover#menu-icon {
 	color: red;
 }
 
+.bottom h2 {
+	text-align: center;
+	font-size: 122%;
+	margin: 20px;
+}
+
+.bottom a{
+	color: #0000CD;
+}
+
+.bottom a:hover {
+	color: #1E90FF;
+}
+
+.middle h2 {
+	text-align: center;
+	font-size: 122%;
+	margin: 20px;
+}
+
+.middle a{
+	color: #0000CD;
+}
+
+.middle a:hover {
+	color: #1E90FF;
+}
+
 /* ------------- animal-div ------------- */
 
 #gallery_wrapper1 {
@@ -622,15 +650,15 @@ a:hover#menu-icon {
 
 .top h2 {
 	text-align: center;
-	font-size: 118%;
+	font-size: 122%;
 }
 
 .top a{
-	color: #4E4F3E;
+	color: #0000CD;
 }
 
 .top a:hover {
-	color: #FF1493;
+	color: #1E90FF;
 }
 
 /* ******************************** CONTACT ******************************** */
