@@ -91,6 +91,10 @@ a:hover#menu-icon {
 	color: #FF1493;
 }
 
+#moto {
+	margin-bottom: 25px;
+}
+
 #content_wrapper {
 	width: 900px;
 	margin: 0px auto;
@@ -789,6 +793,10 @@ a:hover#menu-icon {
 		margin: 3%;
 		display: inline-block;
 		text-align: center;
+	}
+	
+	#moto {
+		margin-bottom: 25px;
 	}
 	
 	#wrapper {
