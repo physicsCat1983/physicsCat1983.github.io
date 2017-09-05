@@ -382,7 +382,7 @@ a:hover#menu-icon {
 #gallery2 {
 	padding: 5px;
 	margin: 20px auto;
-	height: 750px;
+	height: 760px;
 	border: 2px solid #303030;
 }
 
@@ -427,7 +427,7 @@ a:hover#menu-icon {
 #gallery3 {
 	padding: 5px;
 	margin: 20px auto;
-	height: 410px;
+	height: 450px;
 	border: 2px solid #303030;
 }
 
@@ -472,7 +472,7 @@ a:hover#menu-icon {
 #gallery4 {
 	padding: 5px;
 	margin: 20px auto;
-	height: 1100px;
+	height: 930px;
 	border: 2px solid #303030;
 }
 
@@ -607,7 +607,7 @@ a:hover#menu-icon {
 #gallery8 {
 	padding: 5px;
 	margin: 20px auto;
-	height: 540px;
+	height: 740px;
 	border: 2px solid #303030;
 }
 
@@ -795,13 +795,13 @@ a:hover#menu-icon {
 		text-align: center;
 	}
 	
-	#moto {
-		margin-bottom: 25px;
-	}
-	
 	#wrapper {
 		width: auto;
 		margin: 0;
+	}
+	
+	#moto {
+		margin-bottom: 25px;
 	}
 	
 	#table {
@@ -845,7 +845,7 @@ a:hover#menu-icon {
 	/*------------------ About --------------------*/
 	
 	#content_about {
-		height: 1450px;
+		height: 1550px;
 	}
 	
 	/*------------------ Gallery --------------------*/
@@ -875,7 +875,7 @@ a:hover#menu-icon {
 	}
 	
 	#gallery_auto {
-		height: 2100px;
+		height: 2050px;
 	}
 	
 	#auto-div h2 {
@@ -891,7 +891,7 @@ a:hover#menu-icon {
 	}
 	
 	#gallery2 {
-		height: 2400px;
+		height: 2350px;
 	}
 	
 	#flag-div h2 {
@@ -907,7 +907,7 @@ a:hover#menu-icon {
 	}
 	
 	#gallery3 {
-		height: 1500px;
+		height: 1620px;
 	}
 	
 	#holiday-div h2 {
@@ -923,7 +923,7 @@ a:hover#menu-icon {
 	}
 	
 	#gallery4 {
-		height: 3600px;
+		height: 3250px;
 	}
 	
 	#other-div h2 {
@@ -939,7 +939,7 @@ a:hover#menu-icon {
 	}
 	
 	#gallery5 {
-		height: 800px;
+		height: 500px;
 	}
 	
 	#patriot-div h2 {
@@ -955,7 +955,7 @@ a:hover#menu-icon {
 	}
 	
 	#gallery7 {
-		height: 2675px;
+		height: 2630px;
 	}
 	
 	#shelf-div h2 {
@@ -971,7 +971,7 @@ a:hover#menu-icon {
 	}
 	
 	#gallery8 {
-		height: 1700px;
+		height: 2300px;
 	}
 	
 	#sport-div h2 {
